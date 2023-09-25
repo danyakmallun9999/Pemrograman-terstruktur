@@ -1,4 +1,7 @@
 # Tipe data
+
+# Python adalah bahasa pemrograman yang dinamis, yang berarti Anda tidak perlu mendeklarasikan tipe data secara eksplisit saat membuat variabel. Python secara otomatis akan mengenali tipe data berdasarkan nilai yang Anda berikan. Berikut beberapa tipe data dasar dalam Python : 
+
 # Ada 6 tipe data di python
 # 1). Integer (int)
 # 2). Float(float)
