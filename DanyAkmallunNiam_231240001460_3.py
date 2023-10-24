@@ -1,4 +1,4 @@
-#Program kasih toko
+#Program kasir toko
 
 print("                       Tahunan Jepara / 0235                     ")
 print("                      PT. Pencari Cinta Sejatie                  ")
