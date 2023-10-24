@@ -1,3 +1,5 @@
+#Program menghitung nilai tugas
+
 print("*************************************************************************")
 print("****************** Program Menghitung Nilai Tugas ***********************")
 print("*************************************************************************")
@@ -19,7 +21,7 @@ print(" ")
 
 # Kalkulasi nilai
 # rumus = ( nilai1 + nilai2 + nilai3 ) / 3 lalu dibulatkan kebawah
-total_nilai = (int(nilai_tugas_satu) + int(nilai_tugas_dua) + int(nilai_tugas_tiga)) / 3
+total_nilai = (float(nilai_tugas_satu) + float(nilai_tugas_dua) + float(nilai_tugas_tiga)) / 3
 
 print("Nilai Tugas")
 print("Nama Mahasiswa               :", nama_mahasiswa)

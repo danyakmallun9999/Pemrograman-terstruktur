@@ -1,4 +1,4 @@
-# Membuat hasil nilai mahasiswa
+# Membuat hasil nilai mahasiswa dengan if else
 # Jika nilai > 90 dapat A, Jika > 80 dapat B, Jika > 70 dapat c, Selain itu dapat D
 
 nama_mahasiswa =  input("Masukkan namamu : ")

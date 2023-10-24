@@ -1,9 +1,11 @@
-print("                         Tahunan Jepara / 0235                   ")
-print("                        PT. Pencari Cinta Sejatie                ")
-print("                      Jl. Raya Mayong Jepara KM.23               ")
-print("                               Jepara                            ")
-print("                    NPWP : 01.233.876.8.-98.098                  ")
-print("23-09-14 | 21.20                                   983488/DANY/01")
+#Program kasih toko
+
+print("                       Tahunan Jepara / 0235                     ")
+print("                      PT. Pencari Cinta Sejatie                  ")
+print("                    Jl. Raya Mayong Jepara KM.23                 ")
+print("                             Jepara                              ")
+print("                    NPWP : 01.233.876.8.1098.098                 ")
+print("24-10-23 | 21.20                                   401460/DANY/01")
 print(" ")
 
 nama_barang_1      = input("Masukkan Nama Barang 1               : ")
@@ -18,7 +20,7 @@ harga_barang_3     = input("Masukkan Harga Barang 3              : ")
 uang_bayar         = input("Masukkan Pembayaran                  : ")
 
 print(" ")
-print("------------------------------------------------------------")
+print("-----------------------------------------------------------------")
 print(" ")
 
 jumlah_harga_1 = (int(jumlah_pembelian_1) * int(harga_barang_1))
@@ -30,14 +32,14 @@ print(nama_barang_2, jumlah_pembelian_2, harga_barang_2, jumlah_harga_2)
 print(nama_barang_3, jumlah_pembelian_3, harga_barang_3, jumlah_harga_3)
 print(" ")
 
-print("------------------------------------------------------------")
+print("-----------------------------------------------------------------")
 print(" ")
 
 harga_jual = jumlah_harga_1 + jumlah_harga_2 + jumlah_harga_3
 
 print("Harga jual   :           ", harga_jual)
 print(" ")
-print("------------------------------------------------------------")
+print("-----------------------------------------------------------------")
 print(" ")
 
 uang_bayar = int(uang_bayar)
