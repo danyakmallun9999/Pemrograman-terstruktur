@@ -35,8 +35,8 @@ elif nilai_pilihan == 3:
     print("======= Anda Memilih Program menghitung luas lingkaran =======")
     print(" ")
     pi    = 3.14
-    alas  = int(input("Masukkan Jari-jari   = "))
-    hasil = pi * alas ** 2
+    r     = int(input("Masukkan Jari-jari   = "))
+    hasil = pi * r ** 2
     print(" ")
     print("Luas Lingkara Adalah = ", hasil)
 
