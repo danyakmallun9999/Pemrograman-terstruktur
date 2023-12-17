@@ -1,3 +1,5 @@
+# membuat algoritma
+
 # Inisialisasi variabel total dengan nilai awal 0.
 total = 0
 
