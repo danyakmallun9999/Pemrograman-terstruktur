@@ -1,4 +1,5 @@
 # Belajar bahasa pemrograman Python, Mata kuliah pemrograman terstruktur ( 21TIF103-DC )
+## Semester ganjil - TIF Unisnu Jepara
 ![logo](https://pluspng.com/img-png/python-logo-png-png-format-flattened-601.png)
 ## Mahasiswa dapat memahami tentang  :
 - Gambaran Umum Mengenai Pemrograman
